@@ -1,0 +1,19 @@
+.index{
+    background: url("http://educationcareerarticles.com/wp-content/uploads/2013/12/Computer-Technology.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1{
+    color:white;
+}
+
+a{
+    color:white;
+}
+
+a:hover { 
+    background-color: black;
+}
